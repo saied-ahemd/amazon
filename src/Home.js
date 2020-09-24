@@ -13,17 +13,17 @@ function Home() {
       {/* the products */}
       <div className="home__row">
         <Product
-          key={5}
-          id="5"
+          key={1}
+          id="1"
           title="iphone x max pro"
           price={1000}
           rating={4}
           image="https://m.media-amazon.com/images/I/719knfTwPvL._AC_UY218_.jpg"
         />
         <Product
-          key={5}
-          id="5"
-          title="iphone x max pro"
+          key={2}
+          id="2"
+          title="Apple "
           price={1000}
           rating={3}
           image="https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Fuji/2019/July/amazonbasics_520x520._SY304_CB442725065_.jpg"
@@ -31,9 +31,9 @@ function Home() {
       </div>
       <div className="home__row">
         <Product
-          key={5}
-          id="5"
-          title="iphone x max pro"
+          key={3}
+          id="3"
+          title="computer"
           price={1000}
           rating={5}
           image="https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Fuji/2020/May/Dashboard/Fuji_Dash_PC_1x._SY304_CB431800965_.jpg"
@@ -41,7 +41,7 @@ function Home() {
         <Product
           key={5}
           id="5"
-          title="iphone x max pro"
+          title="yoga course"
           price={1000}
           rating={2}
           image="https://images-na.ssl-images-amazon.com/images/G/01/events/GFAH/GWDesktop_SingleImageCard_fitathome_1x._SY304_CB434924743_.jpg"
@@ -49,7 +49,7 @@ function Home() {
         <Product
           key={5}
           id="5"
-          title="iphone x max pro"
+          title="tv"
           price={1000}
           rating={4}
           image="https://images-na.ssl-images-amazon.com/images/G/01/amazonglobal/images/email/asins/DURM-2309C091815868RD._V535730079_.jpg"
@@ -59,7 +59,7 @@ function Home() {
         <Product
           key={5}
           id="5"
-          title="iphone x max pro"
+          title="locker"
           price={1000}
           rating={5}
           image="https://m.media-amazon.com/images/I/71VlL2uonUL._AC_UY218_.jpg"
